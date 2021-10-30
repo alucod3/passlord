@@ -5,6 +5,9 @@
 ## Description
 Python script to assist in creating random passwords, simply rotate the script and type the desired number of characters for the password, returning 3 password options with fully random character merge.
 
+## Installing
+git clone https://github.com/alucod3/passlord.git
+
 ## Execution
 - Linux: go to archive location using your terminal, then type "python3 passlord.py" and press enter
 - Windows: Idk yet (I'll edit it)
